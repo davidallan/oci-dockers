@@ -1,7 +1,5 @@
 import oci
 
-import dis
-
 from oci.object_storage.models import CreateBucketDetails
 
 # What version of the OCI CLI is it?
