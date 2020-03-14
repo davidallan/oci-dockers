@@ -1,0 +1,4 @@
+configparser==3.5.0
+pyOpenSSL==18.0.0
+oci
+oci-cli
